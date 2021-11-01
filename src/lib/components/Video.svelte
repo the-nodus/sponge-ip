@@ -105,6 +105,8 @@
 </div>
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
   .vd-bg {
     user-select: none;
 
@@ -141,7 +143,7 @@
     color: red;
     font-size: 10vw;
     font-weight: 900;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: 'Lobster', cursive;
 
     text-shadow: 0 1px 0 rgb(193, 0, 0), 0 2px 0 rgb(193, 0, 0),
                 0 3px 0 rgb(193, 0, 0), 0 4px 0 rgb(193, 0, 0),
